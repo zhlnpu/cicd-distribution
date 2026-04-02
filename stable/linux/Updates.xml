@@ -6,19 +6,19 @@
   <Name>com.example.cicdapp</Name>
   <DisplayName>CI/CD GUI Demo</DisplayName>
   <Description>A simple Qt desktop app used to validate CI/CD and auto-update flows.</Description>
-  <Version>0.1.3</Version>
+  <Version>0.1.4</Version>
   <ReleaseDate>2026-04-02</ReleaseDate>
   <Script>installscript.qs</Script>
   <Default>true</Default>
   <ForcedInstallation>false</ForcedInstallation>
   <Essential>false</Essential>
-  <UpdateFile CompressedSize="24267" OS="Any" UncompressedSize="97080"/>
+  <UpdateFile CompressedSize="24272" OS="Any" UncompressedSize="97080"/>
   <DownloadableArchives>bin.7z</DownloadableArchives>
   <Licenses>
    <License file="license.txt" name="MIT"/>
   </Licenses>
-  <SHA1>a1768c53b3e18961beabc4fbdf22a8fb847624ef</SHA1>
+  <SHA1>aa43557cba52be24c0274d79f96caea6926038bd</SHA1>
  </PackageUpdate>
- <SHA1>f74e88a93f60fcfe9dfaafc4e0cb3b9da5aa3a50</SHA1>
- <MetadataName>2026-04-02-0801_meta.7z</MetadataName>
+ <SHA1>015ec6eaed93f32cbe51e27ebd06c53eeaa18020</SHA1>
+ <MetadataName>2026-04-02-0838_meta.7z</MetadataName>
 </Updates>
