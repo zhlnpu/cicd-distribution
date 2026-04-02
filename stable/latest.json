@@ -1,9 +1,9 @@
 {
-  "version": "0.1.2",
+  "version": "0.1.3",
   "notes": "Release published by GitHub Actions.",
   "release_page": "https://github.com/zhlnpu/cicd-distribution",
   "assets": {
-    "linux": "https://zhlnpu.github.io/cicd-distribution/downloads/cicd-gui-demo-linux-0.1.2.run",
-    "windows": "https://zhlnpu.github.io/cicd-distribution/downloads/cicd-gui-demo-windows-0.1.2.exe"
+    "linux": "https://zhlnpu.github.io/cicd-distribution/downloads/cicd-gui-demo-linux-0.1.3.run",
+    "windows": "https://zhlnpu.github.io/cicd-distribution/downloads/cicd-gui-demo-windows-0.1.3.exe"
   }
 }
