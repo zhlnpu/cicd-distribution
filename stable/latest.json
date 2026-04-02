@@ -1,9 +1,9 @@
 {
-  "version": "0.1.4",
+  "version": "0.1.5",
   "notes": "Release published by GitHub Actions.",
-  "release_page": "https://github.com/zhlnpu/cicd-distribution/releases/tag/v0.1.4",
+  "release_page": "https://github.com/zhlnpu/cicd-distribution/releases/tag/v0.1.5",
   "assets": {
-    "linux": "https://github.com/zhlnpu/cicd-distribution/releases/download/v0.1.4/cicd-gui-demo-linux-0.1.4.tar.gz",
-    "windows": "https://github.com/zhlnpu/cicd-distribution/releases/download/v0.1.4/cicd-gui-demo-windows-0.1.4.exe"
+    "linux": "https://github.com/zhlnpu/cicd-distribution/releases/download/v0.1.5/cicd-gui-demo-linux-0.1.5.tar.gz",
+    "windows": "https://github.com/zhlnpu/cicd-distribution/releases/download/v0.1.5/cicd-gui-demo-windows-0.1.5.exe"
   }
 }
