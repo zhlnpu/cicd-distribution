@@ -1,8 +1,8 @@
 {
-  "version": "0.1.7",
+  "version": "0.1.8",
   "notes": "Release published by GitHub Actions.",
-  "release_page": "https://github.com/zhlnpu/cicd-distribution/releases/tag/v0.1.7",
+  "release_page": "https://github.com/zhlnpu/cicd-distribution/releases/tag/v0.1.8",
   "assets": {
-    "linux": "https://github.com/zhlnpu/cicd-distribution/releases/download/v0.1.7/cicd-gui-demo-linux-0.1.7.tar.gz"
+    "linux": "https://github.com/zhlnpu/cicd-distribution/releases/download/v0.1.8/cicd-gui-demo-linux-0.1.8.tar.gz"
   }
 }
