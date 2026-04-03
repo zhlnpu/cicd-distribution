@@ -1,8 +1,8 @@
 {
-  "version": "0.2.5",
-  "notes": "**Full Changelog**: https://github.com/zhlnpu/cicd/compare/v0.2.4...v0.2.5",
-  "release_page": "https://github.com/zhlnpu/cicd-distribution/releases/tag/v0.2.5",
+  "version": "0.2.6",
+  "notes": "**Full Changelog**: https://github.com/zhlnpu/cicd/compare/v0.2.5...v0.2.6",
+  "release_page": "https://github.com/zhlnpu/cicd-distribution/releases/tag/v0.2.6",
   "assets": {
-    "linux": "https://github.com/zhlnpu/cicd-distribution/releases/download/v0.2.5/cicd-gui-demo-linux-0.2.5.tar.gz"
+    "linux": "https://github.com/zhlnpu/cicd-distribution/releases/download/v0.2.6/cicd-gui-demo-linux-0.2.6.tar.gz"
   }
 }
