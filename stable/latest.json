@@ -3,7 +3,6 @@
   "notes": "Release published by GitHub Actions.",
   "release_page": "https://github.com/zhlnpu/cicd-distribution/releases/tag/v0.1.6",
   "assets": {
-    "linux": "https://github.com/zhlnpu/cicd-distribution/releases/download/v0.1.6/cicd-gui-demo-linux-0.1.6.tar.gz",
-    "windows": "https://github.com/zhlnpu/cicd-distribution/releases/download/v0.1.6/cicd-gui-demo-windows-0.1.6.exe"
+    "linux": "https://github.com/zhlnpu/cicd-distribution/releases/download/v0.1.6/cicd-gui-demo-linux-0.1.6.tar.gz"
   }
 }
