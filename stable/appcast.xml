@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>CI/CD GUI Demo Updates</title>
+    <link>https://github.com/zhlnpu/cicd-distribution</link>
+    <item>
+      <title>Version 0.3.5</title>
+      <description>**Full Changelog**: https://github.com/zhlnpu/cicd/compare/v0.3.4...v0.3.5</description>
+      <sparkle:version>0.3.5</sparkle:version>
+      <pubDate>Tue, 07 Apr 2026 18:48:35 +0800</pubDate>
+      <enclosure
+        url="https://github.com/zhlnpu/cicd-distribution/releases/download/v0.3.5/cicd-gui-demo-windows-0.3.5-setup.exe"
+        length="1409799"
+        type="application/octet-stream"
+        sparkle:os="windows-x64"
+        sparkle:installerArguments="/S"
+         />
+    </item>
+  </channel>
+</rss>
