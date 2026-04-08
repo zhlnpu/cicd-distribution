@@ -4,13 +4,13 @@
     <title>CI/CD GUI Demo Updates</title>
     <link>https://github.com/zhlnpu/cicd-distribution</link>
     <item>
-      <title>Version 0.3.8</title>
-      <description>**Full Changelog**: https://github.com/zhlnpu/cicd/compare/v0.3.9...v0.3.8</description>
-      <sparkle:version>0.3.8</sparkle:version>
-      <pubDate>Wed, 08 Apr 2026 10:40:43 +0800</pubDate>
+      <title>Version 0.4.0</title>
+      <description>**Full Changelog**: https://github.com/zhlnpu/cicd/compare/v0.3.8...v0.4.0</description>
+      <sparkle:version>0.4.0</sparkle:version>
+      <pubDate>Wed, 08 Apr 2026 11:00:43 +0800</pubDate>
       <enclosure
-        url="https://github.com/zhlnpu/cicd-distribution/releases/download/v0.3.8/cicd-gui-demo-windows-0.3.8-setup.exe"
-        length="1409624"
+        url="https://github.com/zhlnpu/cicd-distribution/releases/download/v0.4.0/cicd-gui-demo-windows-0.4.0-setup.exe"
+        length="1409596"
         type="application/octet-stream"
         sparkle:os="windows-x64"
         sparkle:installerArguments="/S"
