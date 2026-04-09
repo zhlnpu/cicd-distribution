@@ -4,17 +4,17 @@
     <title>CI/CD GUI Demo Updates</title>
     <link>https://github.com/zhlnpu/cicd-distribution</link>
     <item>
-      <title>Version 1.0.5</title>
-      <description>**Full Changelog**: https://github.com/zhlnpu/cicd/compare/v1.0.4...v1.0.5</description>
-      <sparkle:version>1.0.5</sparkle:version>
-      <pubDate>Thu, 09 Apr 2026 10:55:41 +0800</pubDate>
+      <title>Version 1.0.6</title>
+      <description>**Full Changelog**: https://github.com/zhlnpu/cicd/compare/v1.0.5...v1.0.6</description>
+      <sparkle:version>1.0.6</sparkle:version>
+      <pubDate>Thu, 09 Apr 2026 11:23:20 +0800</pubDate>
       <enclosure
-        url="https://github.com/zhlnpu/cicd-distribution/releases/download/v1.0.5/cicd-gui-demo-windows-1.0.5-setup.exe"
-        length="1426723"
+        url="https://github.com/zhlnpu/cicd-distribution/releases/download/v1.0.6/cicd-gui-demo-windows-1.0.6-setup.exe"
+        length="1426658"
         type="application/octet-stream"
         sparkle:os="windows-x64"
         sparkle:installerArguments="/S"
-        sparkle:edSignature="fb5ZvqU7kKjYe7U4T86L4pbnX3fV5GGnsnQAZqvEwBqzLJsmFijSzH/3pIksUhtRtQ56ghzoEMhTgzEccZN0AA==" />
+        sparkle:edSignature="2DRdJ1RztrqyieQvgj95c2GcXTKwWC6cGdPwp4JWkgFOFkc+qx901NxuOnIdfwAVTWemm7dMw6YN46BOV6a/DA==" />
     </item>
   </channel>
 </rss>
